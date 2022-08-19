@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello
+=======
+xin chao
+>>>>>>> e362683ec0bb55fe7436c9d6b01cd658e3f784db
